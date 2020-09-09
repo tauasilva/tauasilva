@@ -1,19 +1,15 @@
 ### Hey, I'm Tauã Fagundes! 👋
 
-<!--ts-->
-   * <b>[Linguagens](#Linguagens)</b>
-      * [Javascript](#tabela-de-conteudo)
-        * [NODE JS](#tabela-de-conteudo)
-        * [React](#tabela-de-conteudo)
-      * [Python](#Python)
-      * [Java](#Java)
-      * [C#](#C#)
-   * [SQL](#SQL)
-     * [MSSQL](#MSSQL)
-     * [ORACLE](#ORACLe)
-   * [NoSQL](#NOSQL)
-     * [MongoDB](#MongoDB)
-<!--te-->
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [MongoDB](https://www.mongodb.com/cloud/atlas/)
+- [Python](https://www.python.org/)
+- [Java](https://www.java.com/pt_BR/)
+- [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+- [MSSQL](https://www.microsoft.com/pt-br/sql-server/sql-server-2019/)
+- [ORACLE](https://www.oracle.com/br/index.html/)
+
 
 
 ### Find me elsewhere 🌎
