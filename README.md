@@ -1,4 +1,4 @@
-### Hey, I'm Tauã Fagundes! 👋
+### Hey, I'm Tauã Fagundes! 👋 
 
 
 - [Node.js](https://nodejs.org/en/)
